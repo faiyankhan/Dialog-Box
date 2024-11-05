@@ -10,3 +10,18 @@ body {
     font-family: Arial, sans-serif;
     background-color: #f4f4f9;
 }
+
+/* Header styling */
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: #ff6347;
+    color: #fff;
+}
+
+.logo {
+    font-size: 24px;
+    font-weight: bold;
+}
