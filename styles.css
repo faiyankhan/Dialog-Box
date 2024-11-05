@@ -38,5 +38,21 @@ nav ul li a {
     text-decoration: none;
     padding: 8px 16px;
     border-radius: 4px;
-    transition: background 0.3s;
+    transition: 0.3s;
+}
+
+nav ul li a:hover {
+    background-color: #ff4500;
+}
+
+.login-btn {
+    background-color: #fff;
+    color: #ff6347;
+    padding: 8px 16px;
+    border-radius: 4px;
+}
+
+.login-btn:hover {
+    background-color: #ff4500;
+    color: #fff;
 }
