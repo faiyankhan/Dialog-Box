@@ -25,3 +25,18 @@ header {
     font-size: 24px;
     font-weight: bold;
 }
+
+/* Navbar styling */
+nav ul {
+    list-style-type: none;
+    display: flex;
+    gap: 20px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    padding: 8px 16px;
+    border-radius: 4px;
+    transition: background 0.3s;
+}
